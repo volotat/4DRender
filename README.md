@@ -28,12 +28,12 @@ As far as we know, this approach provides one of the most detailed and conceptua
 *   **Final Image Compositing:**
     *   Multiple 2D slices are taken from the simulated 3D retinal volume.
     *   These 2D slices are additively blended, with each slice's contribution weighted according to the Gaussian acuity model applied to its position within the 3D retina. The result is a single 2D image that attempts to convey the volumetric nature of the 4D perception.
-
+    
 ## Resulting Animation
-<video width="640" height="360" controls>
-  <source src="result.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+[![4D Volumetric Retina Simulation](preview.gif)](https://github.com/volotat/4DRender/raw/main/result.mp4)]
+
+*Click on the image above to download and view the full video.*
 
 ## Citation
 
