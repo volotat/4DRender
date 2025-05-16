@@ -31,7 +31,7 @@ As far as I know, this approach provides one of the most detailed and conceptual
     
 ## Resulting Animation
 
-[![4D Volumetric Retina Simulation](preview.gif)](https://github.com/volotat/4DRender/raw/main/result.mp4)]
+[![4D Volumetric Retina Simulation](preview.gif)](https://github.com/volotat/4DRender/raw/main/result.mp4)
 
 *Click on the image above to download and view the full video.*
 
