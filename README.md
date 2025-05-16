@@ -12,7 +12,7 @@ This simulation aims to bridge this gap by:
 3.  Introducing a model for information acuity across this 3D retina, assuming that sensitivity might be highest at its center and fall off towards its periphery, modeled here with a Gaussian distribution.
 4.  Combining multiple 2D slices from this simulated 3D retina, weighted by the acuity model, into a single composite 2D image that offers a richer, more nuanced representation of 4D visual perception than previously available.
 
-As far as we know, this approach provides one of the most detailed and conceptually faithful attempts to visualize what a 4D being might perceive.
+As far as I know, this approach provides one of the most detailed and conceptually faithful attempts to visualize what a 4D being might perceive.
 
 ## Simulation Details
 
